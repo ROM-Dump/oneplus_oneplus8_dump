@@ -1,0 +1,20 @@
+## qssi-user 11 RP1A.201005.001 2010031600 release-keys
+- Manufacturer: oneplus
+- Platform: kona
+- Codename: OnePlus8
+- Brand: OnePlus
+- Flavor: qssi-user
+- Release Version: 11
+- Kernel Version: 4.19.110
+- Id: RP1A.201005.001
+- Incremental: 2010031600
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: OnePlus/OnePlus8/OnePlus8:11/RP1A.201005.001/2010031600:user/release-keys
+- OTA version: 
+- Branch: qssi-user-11-RP1A.201005.001-2010031600-release-keys
+- Repo: oneplus_oneplus8_dump
